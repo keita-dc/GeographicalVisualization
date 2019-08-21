@@ -1,4 +1,4 @@
-# GeographicalVisualization
+# Geographical Visualization with Geopandas
 Visualization techniques using geopandas
 
 ## Objectives
